@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ESTRUCYORDENFormsVBKEY", "ESTRUCYORDENFormsVBKEY\ESTRUCYORDENFormsVBKEY.vbproj", "{FEB552ED-B592-4672-B4BF-50B470E74F82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEB552ED-B592-4672-B4BF-50B470E74F82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB552ED-B592-4672-B4BF-50B470E74F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB552ED-B592-4672-B4BF-50B470E74F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB552ED-B592-4672-B4BF-50B470E74F82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3224923B-B749-4E50-942D-03C0A05B974E}
+	EndGlobalSection
+EndGlobal
